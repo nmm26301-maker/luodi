@@ -1,0 +1,262 @@
+{
+  "status": "passed",
+  "appVersion": "1.0.5",
+  "tests": [
+    {
+      "name": "全部页面加载与移动端无横向溢出",
+      "status": "passed"
+    },
+    {
+      "name": "暂停10秒只计数一次",
+      "status": "passed"
+    },
+    {
+      "name": "暂停中重新加载恢复期限并完成",
+      "status": "passed"
+    },
+    {
+      "name": "保存分类、结果建议与重开持久化",
+      "status": "passed"
+    },
+    {
+      "name": "空白事情不允许保存",
+      "status": "passed"
+    },
+    {
+      "name": "用户输入以文本显示，不执行HTML",
+      "status": "passed"
+    },
+    {
+      "name": "真实触屏拖动跨重要程度并保存",
+      "status": "passed"
+    },
+    {
+      "name": "完成事情后移出待办，历史保留",
+      "status": "passed"
+    },
+    {
+      "name": "能量记录与低能量觉察持久化",
+      "status": "passed"
+    },
+    {
+      "name": "能量计时在重开后准确完成",
+      "status": "passed"
+    },
+    {
+      "name": "备份导出实际文件、导入确认和损坏文件拒绝",
+      "status": "passed"
+    },
+    {
+      "name": "清空需要确认，取消保留，确认删除",
+      "status": "passed"
+    },
+    {
+      "name": "离线重开无需外部网络请求",
+      "status": "passed"
+    },
+    {
+      "name": "原生桥接存储分支与重开",
+      "status": "passed"
+    },
+    {
+      "name": "没有脚本错误和缺失图标",
+      "status": "passed"
+    },
+    {
+      "name": "编辑原记录保持ID时间和数量，重开恢复编辑草稿",
+      "status": "passed"
+    },
+    {
+      "name": "取消编辑不改变原记录，打开编辑前确认草稿覆盖",
+      "status": "passed"
+    },
+    {
+      "name": "搜索和责任筛选不修改记录，筛选时禁止拖动",
+      "status": "passed"
+    },
+    {
+      "name": "搜索连续输入保留焦点，并以文本处理特殊字符",
+      "status": "passed"
+    },
+    {
+      "name": "完成可即时撤销，历史可筛选并恢复待办",
+      "status": "passed"
+    },
+    {
+      "name": "已完成记录编辑保留完成状态，仍可恢复待办",
+      "status": "passed"
+    },
+    {
+      "name": "旧版备份没有编辑字段也能兼容，孤立编辑ID安全清除",
+      "status": "passed"
+    },
+    {
+      "name": "新操作没有脚本错误或缺失图标",
+      "status": "passed"
+    },
+    {
+      "name": "下一小步保存编辑重开并在首页按重要程度显示",
+      "status": "passed"
+    },
+    {
+      "name": "旧版缺少新字段的备份兼容，下一步以文本显示",
+      "status": "passed"
+    },
+    {
+      "name": "计时返回键收起并保留期限，恢复后可取消",
+      "status": "passed"
+    },
+    {
+      "name": "收起暂停结束不打断填写，草稿焦点与光标保留",
+      "status": "passed"
+    },
+    {
+      "name": "收起计时不覆盖备份确认弹窗",
+      "status": "passed"
+    },
+    {
+      "name": "简洁动效设置重开保留且暂停圆圈静止",
+      "status": "passed"
+    },
+    {
+      "name": "弹窗隔离后台点击滚动并循环键盘焦点",
+      "status": "passed"
+    },
+    {
+      "name": "连续输入合并写入，离开前立即保存草稿",
+      "status": "passed"
+    },
+    {
+      "name": "每日统计区分历史日期，低能量觉察跨天重置",
+      "status": "passed"
+    },
+    {
+      "name": "计时跨天恢复按实际期限归入当天，不重复记录",
+      "status": "passed"
+    },
+    {
+      "name": "新版备份完整保留下一步、简洁设置和觉察日期",
+      "status": "passed"
+    },
+    {
+      "name": "全部新操作没有脚本错误",
+      "status": "passed"
+    },
+    {
+      "name": "事情删除前确认取消不修改，撤销恢复原顺序和时间",
+      "status": "passed"
+    },
+    {
+      "name": "删除正在编辑的事情清除草稿，撤销恢复编辑内容",
+      "status": "passed"
+    },
+    {
+      "name": "能量记录单条删除与撤销，期限结束不再可撤销",
+      "status": "passed"
+    },
+    {
+      "name": "按事实或想法筛选并禁用拖动，搜索下一小步",
+      "status": "passed"
+    },
+    {
+      "name": "示例不会直接覆盖现有草稿，确认后替换",
+      "status": "passed"
+    },
+    {
+      "name": "跨天统计更新保持输入元素、焦点和光标",
+      "status": "passed"
+    },
+    {
+      "name": "2001条有效历史记录不再被读取截断",
+      "status": "passed"
+    },
+    {
+      "name": "保存失败保留原记录和草稿，不显示成功",
+      "status": "passed"
+    },
+    {
+      "name": "导入清空和计时保存失败时保持原状态并允许重试",
+      "status": "passed"
+    },
+    {
+      "name": "完成恢复、排序与撤销删除保存失败不丢记录",
+      "status": "passed"
+    },
+    {
+      "name": "单步筛选和删除新操作无脚本错误",
+      "status": "passed"
+    },
+    {
+      "name": "七张图全部对应7主题62条练习，导航可直接进入",
+      "status": "passed"
+    },
+    {
+      "name": "练习今日勾选取消、重开持久化、次日不沿用",
+      "status": "passed"
+    },
+    {
+      "name": "跨主题收藏过滤、详情取消收藏后即时更新",
+      "status": "passed"
+    },
+    {
+      "name": "加入习惯、每周频率、重复调整保持一个习惯",
+      "status": "passed"
+    },
+    {
+      "name": "自定义习惯拒绝空白、输入转义、保存重开",
+      "status": "passed"
+    },
+    {
+      "name": "习惯实际触屏拖动排序后重开保留",
+      "status": "passed"
+    },
+    {
+      "name": "移除习惯前确认、取消保留、移除后历史仍保留",
+      "status": "passed"
+    },
+    {
+      "name": "详情感受输入保存不因收藏或计时丢失，回顾可读",
+      "status": "passed"
+    },
+    {
+      "name": "回顾实际Chart.js图表与每天计数一致，历史日期可查看",
+      "status": "passed"
+    },
+    {
+      "name": "每日感受与文字自动持久化，换日浏览保留且安全转义",
+      "status": "passed"
+    },
+    {
+      "name": "新练习计时重开恢复，完成记录照顾和能量各一次",
+      "status": "passed"
+    },
+    {
+      "name": "跨午夜练习记在完成日，不打断回顾输入",
+      "status": "passed"
+    },
+    {
+      "name": "新备份包含照顾数据，导入保留习惯收藏回顾，旧版仍兼容",
+      "status": "passed"
+    },
+    {
+      "name": "损坏照顾字段剔除、重复ID去重、日期与频率校验",
+      "status": "passed"
+    },
+    {
+      "name": "照顾勾选收藏习惯回顾存储失败回滚，重试可保存",
+      "status": "passed"
+    },
+    {
+      "name": "开源许可实际内置，全部新交互无脚本错误",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "viewports": [
+    320,
+    393,
+    432
+  ],
+  "runtime": "Chrome Headless Shell 154; touch device emulation",
+  "limitation": "No Android device or emulator was available; native Activity, SAF chooser and WebView lifecycle require device verification."
+}

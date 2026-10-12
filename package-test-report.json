@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "appVersion": "1.0.5",
+  "zipIntegrity": "passed",
+  "packagedAssets": "18 files identical to source",
+  "originalIconPreserved": true,
+  "previousVersion": "1.0.4",
+  "sameSigningCertificate": true,
+  "certificateSHA256": "fbdfd604b718864ae29e277fe841c33709fb7e33a0012200588f50f07e49c7c2",
+  "versionCode": 10005,
+  "android13Signature": "passed",
+  "resourcesArsc": {
+    "compression": "stored",
+    "dataOffset": 1141872,
+    "alignmentBytes": 4,
+    "crcVerified": true
+  },
+  "sha256": "31ea89deee5eb6c9207996e4233c4d364ad5f1f362332ebddb50eaac019cbe08",
+  "trueDeviceInstall": "not tested"
+}

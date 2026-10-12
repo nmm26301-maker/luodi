@@ -1,0 +1,14 @@
+{
+  "backup_date": "2026-10-12",
+  "app": "落地",
+  "version": "1.0.5",
+  "package": "cn.luodi.app",
+  "certificate_sha256": "fbdfd604b718864ae29e277fe841c33709fb7e33a0012200588f50f07e49c7c2",
+  "files": {
+    "releases/Luodi-1.0.5.apk": {
+      "bytes": 1160928,
+      "sha256": "31ea89deee5eb6c9207996e4233c4d364ad5f1f362332ebddb50eaac019cbe08",
+      "git_blob_sha": "b3b7813541a4207932cbc21fdda3f681dc057f69"
+    }
+  }
+}

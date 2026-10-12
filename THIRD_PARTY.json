@@ -1,0 +1,49 @@
+[
+  {
+    "name": "SortableJS",
+    "version": "1.15.7",
+    "repository": "https://github.com/SortableJS/Sortable",
+    "license": "MIT",
+    "purpose": "触屏拖动事情清单排序",
+    "file": "Sortable.min.js",
+    "sha256": "bf4241bc73fef7f11c59a283a69fe8051cdd31c6d8ff5a2b9ba219e7831fcf76"
+  },
+  {
+    "name": "Lucide",
+    "version": "1.8.0",
+    "repository": "https://github.com/lucide-icons/lucide",
+    "license": "ISC and MIT",
+    "purpose": "界面和导航SVG图标",
+    "file": "lucide.min.js",
+    "sha256": "ab85225ecc1daa2033607856f03dd2dabcbc08e2d260a5b97e17c690aa929766"
+  },
+  {
+    "name": "Noto Sans CJK SC",
+    "version": "2.004, UI subset renamed Luodi UI",
+    "repository": "https://github.com/notofonts/noto-cjk",
+    "license": "SIL Open Font License 1.1",
+    "purpose": "中文界面字体",
+    "files": [
+      "LuodiUI-Regular.woff",
+      "LuodiUI-Bold.woff"
+    ]
+  },
+  {
+    "name": "Day.js",
+    "version": "1.11.13",
+    "repository": "https://github.com/iamkun/dayjs",
+    "license": "MIT",
+    "purpose": "每日日期键与近7天日期计算",
+    "file": "dayjs.min.js",
+    "sha256": "9cfdb93f38afcf2d076abecd66d32bfd3383cdf1967654ebc26a26605daf4173"
+  },
+  {
+    "name": "Chart.js",
+    "version": "4.5.1",
+    "repository": "https://github.com/chartjs/Chart.js",
+    "license": "MIT",
+    "purpose": "照顾自己近7天回顾图表",
+    "file": "chart.umd.js",
+    "sha256": "ecc3cd1eeb8c34d2178e3f59fd63ec5a3d84358c11730af0b9958dc886d7652a"
+  }
+]

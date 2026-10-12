@@ -1,0 +1,16 @@
+{
+  "apk": "Luodi-1.0.5.apk",
+  "sha256": "31ea89deee5eb6c9207996e4233c4d364ad5f1f362332ebddb50eaac019cbe08",
+  "bytes": 1160928,
+  "minAndroid": "6.0 (API 23)",
+  "targetSdk": 34,
+  "abi": "universal; no native libraries",
+  "resourceTable": {
+    "compression": "stored",
+    "dataOffset": 1141872,
+    "alignmentBytes": 4,
+    "crcVerified": true
+  },
+  "android13SignatureVerification": "passed (API 33)",
+  "signing": "v1/v2/v3 signatures verified by Android SDK apksigner"
+}
